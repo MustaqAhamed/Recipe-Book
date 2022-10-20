@@ -1,7 +1,7 @@
 # Recipe-Book
 
 This is a course project which is developed from Udemy learning by instructor Maximilian Schwarzmüller.
-For more details related to course and learning angular, click on this link -  https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/13914134?start=0#overview 
+For more details related to course and learning angular, click on this link -  https://www.udemy.com/course/the-complete-guide-to-angular-2/
 
 
 ## *Login Page*
